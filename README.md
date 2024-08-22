@@ -21,10 +21,11 @@ This application, **Telemetry Management Portal**, is designed to manage and tra
 - Delete a Project: Select a project and click "Delete" to remove it.
 
 **Clients**
-View Clients: Navigate to the Clients section to view a list of all clients.
-Add a Client: Click the "create new" link button and fill out the required information.
-Update a Client: Select a client from the list and click "Edit" to update its details.
-Delete a Client: Select a client and click "Delete" to remove it.
+
+- View Clients: Navigate to the Clients section to view a list of all clients.
+- Add a Client: Click the "create new" link button and fill out the required information.
+- Update a Client: Select a client from the list and click "Edit" to update its details.
+- Delete a Client: Select a client and click "Delete" to remove it.
 
 **Account Creation**
 
