@@ -1,6 +1,6 @@
 ﻿namespace TelemetryPortal_MVC.Repositories
 {
-    public interface IProjectRepository
+    public interface IProjectRepository  
     {
     }
 }

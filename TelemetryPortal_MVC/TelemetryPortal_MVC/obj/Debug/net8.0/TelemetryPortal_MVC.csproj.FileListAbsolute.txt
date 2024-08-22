@@ -269,3 +269,13 @@ C:\Users\jacqu\source\repos\TelemetryPortal_MVC\TelemetryPortal_MVC\bin\Debug\ne
 C:\Users\Rasekele\Source\Repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.dll
 C:\Users\Rasekele\Source\Repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\refint\TelemetryPortal_MVC.dll
 C:\Users\Rasekele\Source\Repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.pdb
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.csproj.AssemblyReference.cache
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.AssemblyInfoInputs.cache
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.AssemblyInfo.cs
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.RazorAssemblyInfo.cache
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.RazorAssemblyInfo.cs
+C:\Users\Rasekele\source\repos\Dikankatla\CMPG-323-Project-3--41616715\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.sourcelink.json
