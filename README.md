@@ -31,4 +31,14 @@ This application, **Telemetry Management Portal**, is designed to manage and tra
 
   Add a Account: Click the "Register" link button and fill out the required information.
 
+## Links
+
+**Certificates**
+
+- Secure a .NET web app with the ASP.NET Core Identity framework: https://learn.microsoft.com/api/achievements/share/en-us/DikankatlaMathabatha-4948/9F6W33CU?sharingId=2F07206C1CCD7A09
+
+  **App**
+
+https://localhost:7276/
+
 
