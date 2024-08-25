@@ -39,6 +39,6 @@ This application, **Telemetry Management Portal**, is designed to manage and tra
 
   **App**
 
-https://localhost:7276/
+https://telemetryportalmvc202441616715.azurewebsites.net/
 
 
